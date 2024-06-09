@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Manuals](README.md)
+* [Documentation](README.md)
 
 ## MakeItLoud
 
