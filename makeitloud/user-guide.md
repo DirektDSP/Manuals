@@ -10,7 +10,12 @@ The UI contains 3 main sliders for Input gain (left) , Output gain (right) and B
 \
 The combo box on the bottom of the plugin lets you swap between 3 preset compression modes and a custom mode. These are made to cater for a variety of sounds.
 
-The sliders on the top left of the plugin control the custom Threshold, Ratio, Attack and Release values (TH, RT, AT, RL respectively). These are only active when the "Custom Settings" mode is selected.
+The sliders on the top left of the plugin control the custom Threshold, Ratio, Attack and Release values (see below). These are only active when the "Custom Settings" mode is selected.
+
+TH -> Compression Threshold\
+RT -> Compression Ratio\
+AT -> Compression Attack\
+RL -> Compression Release
 
 Compression can also be bypassed by using the toggle on the right by clicking the "Compress" button.
 
