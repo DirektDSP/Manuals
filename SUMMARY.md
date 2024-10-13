@@ -5,3 +5,7 @@
 ## MakeItLoud
 
 * [User Guide](makeitloud/user-guide.md)
+
+## Fuzzboy
+
+* [User Guide](fuzzboy/user-guide.md)
