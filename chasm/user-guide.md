@@ -4,9 +4,6 @@ Chasm is a diffusion / delay plugin with built-in controls and utilities to help
 
 ## Using Chasm
 
-
 ## Making Presets
 
-
 ## What the parameters
-

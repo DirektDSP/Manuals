@@ -20,4 +20,3 @@ RL -> Compression Release
 Compression can also be bypassed by using the toggle on the right by clicking the "Compress" button.
 
 The whole plugin (including saturation and in/out gain) can be bypassed with the "Bypass" button.
-
