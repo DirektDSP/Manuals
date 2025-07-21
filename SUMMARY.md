@@ -9,3 +9,7 @@
 ## Fuzzboy
 
 * [User Guide](fuzzboy/user-guide.md)
+
+## Chasm
+
+* [User Guide](chasm/user-guide.md)
